@@ -1,0 +1,26 @@
+langchain
+langchain-community
+streamlit
+sentence-transformers
+pypdf
+faiss-cpu
+ollama
+langchain_ollama
+transformers
+torch
+Document
+openpyxl
+sentence-transformers
+rouge_score
+
+# bitsandbytes==0.44.1
+# pacmap
+# ragatouille
+# datasets
+# matplotlib
+# plotly
+
+# accelerate==0.26.0
+# peft==0.4.0 
+
+memory-profiler
